@@ -18,20 +18,5 @@
         </div>
       </nav>
     </head>
-
-    <main>
-      <div class="blok1"></div>
-      <div class="blok2"></div>
-      <div class="blok3"></div>
-    </main>
-
-    <footer>
-      <h1 class="title">
-        EasyDrive
-      </h1>
-      <h2 class="ondertekst">
-        ANWB Rijschool
-      </h2>
-    </footer>
 </body>
 </html>
