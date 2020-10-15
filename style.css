@@ -158,3 +158,47 @@ div.topBotomBordersOut a:hover:before, div.topBotomBordersOut a:hover:after
     top: 600px;
     right: 340px;
 }
+
+.h1 {
+    position: relative;
+    top: 350px;
+    left: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px rgb(0, 0, 0);
+}
+
+.gerard {
+    position: relative;
+    left: 1000px;
+    top: -165px;
+    height: 400px;
+    width: 600px;
+}
+
+.chantal {
+        position: relative;
+        left: 397px;
+        top: 260px;
+        height: 400px;
+        width: 600px;
+}
+
+.h3 {
+    width: 650px;
+    position: relative;
+    top: 350px;
+    left: 80px;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px rgb(0, 0, 0);
+    text-align: center;
+    font-size: 18px;
+}
+
+.puntjes {
+    position: relative;
+    top: 350px;
+    left: 100px;
+    color: rgb(255, 255, 255);
+    text-shadow: 4px 4px rgb(0, 0, 0);
+    font-size: 22px;
+}
