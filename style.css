@@ -202,3 +202,40 @@ div.topBotomBordersOut a:hover:before, div.topBotomBordersOut a:hover:after
     text-shadow: 4px 4px rgb(0, 0, 0);
     font-size: 22px;
 }
+
+#img2 {
+    height: 350px;
+    width: 550px;
+}
+
+#img1 {
+    height: 350px;
+    width: 550px;
+}
+#img3 {
+    height: 350px;
+    width: 550px;
+}
+.instructeurs {
+    display: flex;
+    position: absolute;
+    top: 200px;
+    left: 10px;
+}
+
+#fig1 {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+#fig2 {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+#fig3 {
+    color: white;
+    font-size: large;
+    text-align: center;
+}
+
